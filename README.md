@@ -1,5 +1,7 @@
 # Indeed-Job-Posting
 
+Members: Citlally Reynoso, Yuqing Yang, Fatima Kabbaj, Hanna Grossman, Kai Chen Tan, Patricia Njo
+
 ## Research Objective
 
 What are some factors that will make a job posting more attractive and garner more clicks of interest on Indeed?
