@@ -26,13 +26,13 @@ Step 5: By looking at the relationship between each variable and average clicks 
 
 1. The job description should be between 0 and 5,000 characters optimally, and preferably below 10,000 characters.The job description should be between 0 and 5,000 characters optimally, and preferably below 10,000 characters.
 
-2. Thejobdescriptionshouldbebetween0and500wordsoptimally,and preferably below 1,000 words.
+2. The job description should bebetween 0 and 500 words optimally, and preferably below 1,000 words.
 
 3. If a company wants to maximize the number of quality clicks, the experience required should be left blank. However, if a company wants job applicants with a certain level of experience, the experience required should be specified.
 
 4. If a company chooses to specify experience required, they should select the lower end of their preferred range.
 
-5. Theestimatedsalaryshouldbespecifiedandrepresentativeoftheskill sets required for the job.
+5. The estimated salary should be specified and representative of the skill sets required for the job.
 
 6. If a company is open to job applicants with a variety of backgrounds, the industry should be left blank. However, if the company wants job applicants with a certain background, the industry should be specified.
 
